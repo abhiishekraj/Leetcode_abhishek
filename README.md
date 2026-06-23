@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhiishekraj/Leetcode_abhishek/tree/master/0001-two-sum) |
+| [0287-find-the-duplicate-number](https://github.com/abhiishekraj/Leetcode_abhishek/tree/master/0287-find-the-duplicate-number) |
 | [0503-next-greater-element-ii](https://github.com/abhiishekraj/Leetcode_abhishek/tree/master/0503-next-greater-element-ii) |
 ## Hash Table
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/abhiishekraj/Leetcode_abhishek/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/abhiishekraj/Leetcode_abhishek/tree/master/0287-find-the-duplicate-number) |
 ## Stack
 |  |
 | ------- |
@@ -29,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/abhiishekraj/Leetcode_abhishek/tree/master/0503-next-greater-element-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/abhiishekraj/Leetcode_abhishek/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/abhiishekraj/Leetcode_abhishek/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
