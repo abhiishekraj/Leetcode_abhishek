@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhiishekraj/Leetcode_abhishek/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/abhiishekraj/Leetcode_abhishek/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/abhiishekraj/Leetcode_abhishek/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhiishekraj/Leetcode_abhishek/tree/master/0150-evaluate-reverse-polish-notation) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/abhiishekraj/Leetcode_abhishek/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
