@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhiishekraj/Leetcode_abhishek/tree/master/0001-two-sum) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/abhiishekraj/Leetcode_abhishek/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0287-find-the-duplicate-number](https://github.com/abhiishekraj/Leetcode_abhishek/tree/master/0287-find-the-duplicate-number) |
 | [0503-next-greater-element-ii](https://github.com/abhiishekraj/Leetcode_abhishek/tree/master/0503-next-greater-element-ii) |
 ## Hash Table
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/abhiishekraj/Leetcode_abhishek/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0503-next-greater-element-ii](https://github.com/abhiishekraj/Leetcode_abhishek/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
@@ -39,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/abhiishekraj/Leetcode_abhishek/tree/master/0287-find-the-duplicate-number) |
+## Math
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/abhiishekraj/Leetcode_abhishek/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
