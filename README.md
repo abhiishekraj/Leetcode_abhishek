@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/abhiishekraj/Leetcode_abhishek/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhiishekraj/Leetcode_abhishek/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/abhiishekraj/Leetcode_abhishek/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/abhiishekraj/Leetcode_abhishek/tree/master/0503-next-greater-element-ii) |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/abhiishekraj/Leetcode_abhishek/tree/master/0155-min-stack) |
+## String
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/abhiishekraj/Leetcode_abhishek/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
