@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/abhiishekraj/Leetcode_abhishek/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhiishekraj/Leetcode_abhishek/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/abhiishekraj/Leetcode_abhishek/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhiishekraj/Leetcode_abhishek/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0287-find-the-duplicate-number](https://github.com/abhiishekraj/Leetcode_abhishek/tree/master/0287-find-the-duplicate-number) |
 | [0503-next-greater-element-ii](https://github.com/abhiishekraj/Leetcode_abhishek/tree/master/0503-next-greater-element-ii) |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/abhiishekraj/Leetcode_abhishek/tree/master/0394-decode-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/abhiishekraj/Leetcode_abhishek/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
